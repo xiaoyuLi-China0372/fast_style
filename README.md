@@ -8,8 +8,8 @@ This is an implementation based on mxnet-python of the paper
 Then run `python fast_style.py`, use `-h` to see more options
 
 ### create output and training set directory
-mkdir output
-mkdir datas/training_images
+* mkdir output
+* mkdir datas/training_images
 
 ### acquire training image set
 download the Coco dataset：http://msvocds.blob.core.windows.net/coco2015/test2015.zip
@@ -28,5 +28,5 @@ output/
 
 * use the mxnet-0.11.0
 * The current implementation is based on:
-  https://github.com/jcjohnson/neural-style and https://github.com/apache/incubator-mxnet/tree/master/example/neural-style
+  https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/FastNeuralStyle and https://github.com/apache/incubator-mxnet/tree/master/example/neural-style
 
