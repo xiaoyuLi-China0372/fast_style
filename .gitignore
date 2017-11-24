@@ -1,0 +1,4 @@
+*.pyc
+*.params
+output/*
+datas/training_images/*
